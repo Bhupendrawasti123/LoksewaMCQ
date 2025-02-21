@@ -11,7 +11,7 @@ body {
     text-align: center;
 }
 
-.subject-btn {
+.subject-btn, .btn {
     display: block;
     width: 200px;
     padding: 15px;
@@ -22,6 +22,7 @@ body {
     border-radius: 5px;
     font-size: 18px;
     cursor: pointer;
+    text-decoration: none;
 }
 
 #question-container {
@@ -40,10 +41,25 @@ body {
     border: 1px solid #2196F3;
     border-radius: 5px;
     cursor: pointer;
+    font-size: 16px;
 }
 
 #timer {
     color: red;
     font-size: 18px;
     margin: 10px 0;
+}
+
+.score-display {
+    font-size: 24px;
+    margin: 20px 0;
+    color: #2196F3;
+}
+
+.about-content {
+    text-align: left;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px 0;
 }
