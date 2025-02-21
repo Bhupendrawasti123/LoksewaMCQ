@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What comes next in the sequence? 2, 6, 12, 20, 30, ?",
+    "options": ["36", "38", "42", "44"],
+    "answer": "42"
+  },
+  {
+    "question": "If all Bloops are Razzies and some Razzies are Lazzies, then can we conclude that some Bloops are definitely Lazzies?",
+    "options": ["Yes", "No", "Maybe", "Cannot be determined"],
+    "answer": "Cannot be determined"
+  },
+  {
+    "question": "A clock shows 3:15. What is the angle between the hour and minute hands?",
+    "options": ["7.5°", "22.5°", "30°", "37.5°"],
+    "answer": "7.5°"
+  },
+  {
+    "question": "Which number is the odd one out? 16, 36, 49, 64, 81",
+    "options": ["16", "36", "49", "81"],
+    "answer": "49"
+  },
+  {
+    "question": "A train is moving at 80 km/h. How far will it travel in 45 minutes?",
+    "options": ["50 km", "60 km", "45 km", "55 km"],
+    "answer": "60 km"
+  },
+  {
+    "question": "If a bat and a ball together cost $1.10 and the bat costs $1 more than the ball, how much does the ball cost?",
+    "options": ["$0.05", "$0.10", "$0.15", "$0.20"],
+    "answer": "$0.05"
+  },
+  {
+    "question": "What comes next in the pattern? 1, 4, 9, 16, 25, ?",
+    "options": ["30", "35", "36", "49"],
+    "answer": "36"
+  },
+  {
+    "question": "Which word does not belong in the group? Apple, Banana, Carrot, Mango",
+    "options": ["Apple", "Banana", "Carrot", "Mango"],
+    "answer": "Carrot"
+  },
+  {
+    "question": "A man stands on one side of a river. His dog stands on the other. The man calls the dog, and the dog crosses the river without getting wet or using a bridge. How?",
+    "options": ["The river is frozen", "The dog jumped", "There is a hidden bridge", "It swam very fast"],
+    "answer": "The river is frozen"
+  },
+  {
+    "question": "If you rearrange the letters in 'LISTEN', you get which word?",
+    "options": ["SILENT", "LENTIL", "TENSIL", "ENLIST"],
+    "answer": "SILENT"
+  }
+]
