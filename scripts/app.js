@@ -13,7 +13,7 @@ function loadQuiz() {
     const subject = localStorage.getItem('currentSubject');
     document.getElementById('subject-title').textContent = subject + ' Quiz';
     
-    fetch(`data/${subject}.json`)
+    fetch(`https://bhupendrawasti123.github.io/LoksewaMCQ/data/${subject}.json`)
         .then(response => response.json())
         .then(questions => {
             startTimer();
